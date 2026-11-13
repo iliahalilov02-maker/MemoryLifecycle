@@ -1,5 +1,4 @@
-﻿using MemoryLifecycle.src.MemoryLifecycle.Gc;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
 namespace MemoryLifecycle.Gc;
 
