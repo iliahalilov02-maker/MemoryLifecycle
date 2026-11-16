@@ -3,56 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\docs\\03-disposable.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\docs\\03-disposable.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\demos\\resourcedemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\demos\\resourcedemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\docs\\02-gc-modes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\docs\\02-gc-modes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\docs\\01-gc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\docs\\01-gc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\docs\\04-dispose-pattern.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\docs\\04-dispose-pattern.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\fakeresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\fakeresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\managedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\managedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\filebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\filebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\demos\\disposedemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\demos\\disposedemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\demos\\resourcedemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\demos\\resourcedemos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\managedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\managedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\gc\\gcobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\gc\\gcobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\memorylifecycle.sln||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\memorylifecycle.sln||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\resources\\fakeresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\resources\\fakeresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\gc\\gcsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\gc\\gcsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\gc\\gcmodescenarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\gc\\gcmodescenarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\docs\\01-gc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\docs\\01-gc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\docs\\03-disposable.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\docs\\03-disposable.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\docs\\02-gc-modes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\docs\\02-gc-modes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\memorylifecycle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -61,22 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\gc\\pressurescenarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\gc\\pressurescenarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\gc\\gcsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\gc\\gcsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\gc\\gcobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\gc\\gcobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\src\\memorylifecycle\\gc\\gcmodescenarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\src\\memorylifecycle\\gc\\gcmodescenarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|c:\\users\\velor\\memorylifecycle\\memorylifecycle\\memorylifecycle\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8C071E8B-D3F7-4340-8204-232647E0698E}|MemoryLifecycle\\MemoryLifecycle.csproj|solutionrelative:memorylifecycle\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "DisposeDemos.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Demos\\DisposeDemos.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Demos\\DisposeDemos.cs",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Demos\\DisposeDemos.cs",
               "RelativeToolTip": "MemoryLifecycle\\src\\MemoryLifecycle\\Demos\\DisposeDemos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T14:45:28.032Z",
               "EditorCaption": ""
@@ -121,66 +121,66 @@
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Demos\\ResourceDemos.cs",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Demos\\ResourceDemos.cs",
               "RelativeToolTip": "MemoryLifecycle\\src\\MemoryLifecycle\\Demos\\ResourceDemos.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDgAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T14:45:18.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "FileBuffer.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\FileBuffer.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\FileBuffer.cs",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\FileBuffer.cs",
               "RelativeToolTip": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\FileBuffer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T14:44:51.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "DatabaseConnection.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\DatabaseConnection.cs",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\DatabaseConnection.cs",
               "RelativeToolTip": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\DatabaseConnection.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswEgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T14:44:42.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LogFile.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\LogFile.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\LogFile.cs",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\LogFile.cs",
               "RelativeToolTip": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\LogFile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA/wCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T14:44:33.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "ManagedResource.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\ManagedResource.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\ManagedResource.cs",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\ManagedResource.cs",
               "RelativeToolTip": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\ManagedResource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T14:44:25.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FakeResource.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\FakeResource.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Resources\\FakeResource.cs",
@@ -193,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "GcModeScenarios.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\GcModeScenarios.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\GcModeScenarios.cs",
@@ -206,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "PressureScenarios.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\PressureScenarios.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\PressureScenarios.cs",
@@ -214,12 +214,11 @@
               "RelativeToolTip": "MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\PressureScenarios.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T14:43:19.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T14:43:19.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "GcObserver.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\GcObserver.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\GcObserver.cs",
@@ -232,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "GcSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\GcSnapshot.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\src\\MemoryLifecycle\\Gc\\GcSnapshot.cs",
@@ -245,33 +244,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "04-dispose-pattern.md",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\docs\\04-dispose-pattern.md",
               "RelativeDocumentMoniker": "MemoryLifecycle\\docs\\04-dispose-pattern.md",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\docs\\04-dispose-pattern.md",
               "RelativeToolTip": "MemoryLifecycle\\docs\\04-dispose-pattern.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-11-09T14:28:02.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "03-disposable.md",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\docs\\03-disposable.md",
               "RelativeDocumentMoniker": "MemoryLifecycle\\docs\\03-disposable.md",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\docs\\03-disposable.md",
               "RelativeToolTip": "MemoryLifecycle\\docs\\03-disposable.md",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-11-09T14:27:47.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "02-gc-modes.md",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\docs\\02-gc-modes.md",
               "RelativeDocumentMoniker": "MemoryLifecycle\\docs\\02-gc-modes.md",
@@ -279,12 +278,11 @@
               "RelativeToolTip": "MemoryLifecycle\\docs\\02-gc-modes.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-11-09T14:27:33.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T14:27:33.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "01-gc.md",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\docs\\01-gc.md",
               "RelativeDocumentMoniker": "MemoryLifecycle\\docs\\01-gc.md",
@@ -297,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "MemoryLifecycle.csproj",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle.csproj",
               "RelativeDocumentMoniker": "MemoryLifecycle\\MemoryLifecycle.csproj",
@@ -305,12 +303,11 @@
               "RelativeToolTip": "MemoryLifecycle\\MemoryLifecycle.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-09T14:26:30.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T14:26:30.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "MemoryLifecycle.sln",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle.sln",
               "RelativeDocumentMoniker": "MemoryLifecycle\\MemoryLifecycle.sln",
@@ -323,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\.gitignore",
               "RelativeDocumentMoniker": "MemoryLifecycle\\.gitignore",
@@ -331,17 +328,18 @@
               "RelativeToolTip": "MemoryLifecycle\\.gitignore",
               "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-11-09T14:25:53.773Z"
+              "WhenOpened": "2026-11-09T14:25:53.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\Program.cs",
               "RelativeDocumentMoniker": "MemoryLifecycle\\Program.cs",
               "ToolTip": "C:\\Users\\Velor\\MemoryLifecycle\\MemoryLifecycle\\MemoryLifecycle\\Program.cs",
               "RelativeToolTip": "MemoryLifecycle\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T14:25:21.424Z",
               "EditorCaption": ""
