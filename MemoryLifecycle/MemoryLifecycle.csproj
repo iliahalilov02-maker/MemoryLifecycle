@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <None Include="MemoryLifecycle.sln" />
-    <None Include="src\memorylifecycle\MemoryLifecycle.csproj" />
   </ItemGroup>
 
 </Project>
